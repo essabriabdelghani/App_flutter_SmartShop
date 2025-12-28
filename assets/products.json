@@ -1,0 +1,37 @@
+[
+     {
+      "name": "phone",
+      "imagepath": "assets/phone.png",
+      "prix": 3000,
+      "description": "this is a product phone",
+      "category": "Phones"
+    },
+    {
+      "name": "Gaming Laptop",
+      "imagepath": "assets/laptop.png",
+      "prix": 2700,
+      "description": "this is a good product laptop",
+      "category": "Laptops"
+    },
+    {
+      "name": "watch",
+      "imagepath": "assets/watch.png",
+      "prix": 2000,
+      "description": "this is a good product watch",
+      "category": "Watch"
+    },
+       {
+      "name": "manette",
+      "imagepath": "assets/manette.png",
+      "prix": 600,
+      "description": "this is a good product accessoires",
+      "category": "manette"
+    },
+       {
+      "name": "pc gamer",
+      "imagepath": "assets/pc_gamer.png",
+      "prix": 369000,
+      "description": "this is a pc gamer",
+      "category": "Gaming"
+    }
+]
