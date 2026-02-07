@@ -9,12 +9,11 @@ class SearchPage extends StatefulWidget {
 
 class _SearchPageStatment extends State<SearchPage> {
   List<Map<String, dynamic>> allProducts = [
-    {"name": "phone", "price": 250},
-    {"name": "gaming laptop", "price": 220},
-    {"name": "watch", "price": 900},
-    {"name": "HP Pavilion", "price": 500},
-    {"name": "Apple Watch 9", "price": 150},
-    {"name": "PlayStation 5", "price": 400},
+    {"name": "phone", "price": 3000},
+    {"name": "laptop", "price": 27000},
+    {"name": "watch", "price": 2000},
+    {"name": "manette", "price": 600},
+    {"name": "pc gamer 9", "price": 369000},
   ];
 
   List<Map<String, dynamic>> filteredList = [];

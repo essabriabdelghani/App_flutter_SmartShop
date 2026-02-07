@@ -84,7 +84,7 @@ class _ProducttilehomeState extends State<Producttilehome> {
     "Laptops",
     "Watch",
     "Gaming",
-    "Accessoires",
+    "manette",
   ];
 
   int selectedIndex = 0;
@@ -100,7 +100,7 @@ class _ProducttilehomeState extends State<Producttilehome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: App_Bar(name: "smartStore"),
+      appBar: App_Bar(name: "smartShop"),
       body: ListView(
         padding: EdgeInsets.all(20),
         children: [

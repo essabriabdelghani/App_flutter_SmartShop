@@ -64,6 +64,8 @@ flutter:
     - assets/moi.jpg
     - assets/pc_gamer.png
     - assets/manette.png
+   
+    
     
 
   # To add assets to your application, add an assets section, like this:
